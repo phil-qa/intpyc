@@ -1,0 +1,7 @@
+mon
+tue
+wed
+cats
+fri
+sat
+bun
